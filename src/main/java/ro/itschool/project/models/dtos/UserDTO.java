@@ -1,6 +1,5 @@
 package ro.itschool.project.models.dtos;
 
-import jakarta.validation.constraints.NotEmpty;
 import lombok.Data;
 
 import java.io.Serializable;
